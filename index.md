@@ -7,3 +7,7 @@
 greeting = "Hello, world!"
 print(greeting)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
